@@ -1,7 +1,21 @@
-# Friends List App
+# README
 
-Hello my name is Nan Tint Tint Tun and I woke at GIC.
+>This is Ruby on Rails 5 appliction that allows user to create their own portfolio
 
-This is my Ruby on Rails Friends List App!
+### Features
+- Real time chat engine for cmments
+- Blog
+- Portfolio
+- Drag and drio interface
 
-Follow me
+### Code Example
+
+```ruby
+def my_great_method
+	puts "here it is"
+end
+```
+
+```japascript
+alert("hi there");
+```
